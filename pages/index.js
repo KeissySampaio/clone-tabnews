@@ -1,5 +1,5 @@
 function Home(){
-    return <p>Meu amor,
+    return <p><h1>Meu amor</h1><br></br>
 
     Nestes cinco anos juntos, vivemos tantas aventuras e momentos inesquecíveis. Agora, com a chegada da nossa filhinha, sinto que nosso amor se fortaleceu ainda mais. Ver você como mãe, cuidando com tanto carinho e dedicação, me enche de orgulho e admiração.
     
